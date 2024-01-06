@@ -1,10 +1,10 @@
 # ERP-System
 
-## How to set up the project in my local environment.
+## How to set up the project in my local environment
 
 Setting up a local environment for a PHP and MySQL-based ERP system involves a few steps. Here's a basic idea of how to set up and run the project:
 
-Install a Local Server - Here I Used a local server environment XAMP. 
+Install a Local Server - Here I Used a local server environment XAMP.
 
 Project Directory - Create a new directory in my local server's web directory (htdocs in XAMPP).
 
@@ -12,9 +12,9 @@ Database Setup - Import the provided database dump (SQL file) into my MySQL serv
 
 PHP Configuration - Verify PHP version and configuration settings. Ensure compatibility with my ERP system.
 
-Make sure I have included Bootstrap, CSS, and JavaScript files in my project. 
+Make sure I have included Bootstrap, CSS, and JavaScript files in my project.
 
-Testing - Opened my web browser and navigated to http://localhost/my_project_directory. Verify that the project runs without errors.
+Testing - Opened my web browser and navigated to <http://localhost/my_project_directory> Verify that the project runs without errors.
 
 Run the Project - Access different pages of your ERP system and test functionalities. Ensure that data retrieval, insertion, update, and deletion work as expected.
 
@@ -37,6 +37,7 @@ Items Module - Users can register and view item details, including item codes, n
 Reports Module - Comprehensive invoicing capabilities are provided, allowing users to create and view invoices with associated customers, items, quantities, and amounts. Here generated report is displayed in the table format. The system supports reporting functionalities with three specific reports: Invoice Report, Invoice Item Report, and Item Report (Shown in the table format).
 
 ## Usage
-Users can navigate through the various modules using the provided interfaces(left side bar).
-Data validation is implemented in the forms to ensure accurate input.
 
+Users can navigate through the various modules using the provided interfaces(left side bar)
+Data validation is implemented in the forms to ensure accurate input.
+[EOF]
